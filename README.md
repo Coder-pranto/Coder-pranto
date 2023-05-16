@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning **NextJs**
 - 👯 I’m looking to collaborate with any **Open - Source contribution**
 - 🤔 I’m looking for help with **Prisma** & **bash script**
--  👨💻 All of my projects are available at [https://github.com/Coder-pranto](https://github.com/Coder-pranto)
+- 👨‍💻 All of my projects are available at [https://github.com/Coder-pranto](https://github.com/Coder-pranto)
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 📫 How to reach me: **raedhasan64@gmail.com**
 - 😄 Pronouns: ***He/His*** or ***TeamMaker***😉
