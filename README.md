@@ -24,7 +24,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coder-pranto&color=brightgreen&style=plastic&label=Profile%20views&color=0e75b6&style=flat" alt="Coder-pranto" /> </p>
-<img align="right" width=300px alt="shiba-inu" src="https://giphy.com/embed/mCRJDo24UvJMA" />
+<img align="right" width=300px alt="shiba-inu" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ1NWNkOWE5YmRkZDdlMWYyNDdhZDlhYTA5MjliZTVlNDNkMjg3YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/mCRJDo24UvJMA/giphy.gif" />
 
 
 - 🔭 I’m currently working on ...
