@@ -24,9 +24,9 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coder-pranto&color=brightgreen&style=plastic&label=Profile%20views&color=0e75b6&style=flat" alt="Coder-pranto" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA" />
+<img align="right" width=300px alt="shiba-inu" src="https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA" />
 
-<iframe src="https://giphy.com/embed/mCRJDo24UvJMA" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA">via GIPHY</a></p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
