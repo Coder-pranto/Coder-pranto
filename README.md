@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning **NextJs**
 - 👯 I’m looking to collaborate with any **Open - Source contribution**
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with **Prisma** & **bash script**
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 📫 How to reach me: **raedhasan64@gmail.com**
 - 😄 Pronouns: ***He/His*** or ***TeamMaker***😉
