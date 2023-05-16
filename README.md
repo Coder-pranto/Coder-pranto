@@ -1,5 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Riaj Hasan Pranto</h1>
-<h3 align="center">Fresh Graduate | Technical Enthusiast |Web Developer</h3>
+<h3 align="center">Fresh Graduate | Technical Enthusiast | Web Developer</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/riaj-hasan-pranto-15197917b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089875654804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Pranto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://leetcode.com/RiajHasan17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pranto318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.js" alt="pranto" height="30" width="40" /></a>
+ <a href = "mailto: pranto318@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
