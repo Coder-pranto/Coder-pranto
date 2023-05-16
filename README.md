@@ -1,9 +1,5 @@
-### Hi there 👋
-
-
-**Coder-pranto/Coder-pranto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Riaj Hasan Pranto</h1>
+<h3 align="center">Fresh Graduate | Technical Enthusiast |Web Developer</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
