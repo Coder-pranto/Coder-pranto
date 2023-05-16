@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Confusion is part of Programming!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Coder-pranto&color=brightgreen&style=plastic&label=Profile%20views&color=0e75b6&style=flat" alt="Coder-pranto" /> </p>
 
 
 - 🔭 I’m currently working on ...
