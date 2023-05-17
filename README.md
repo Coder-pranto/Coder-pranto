@@ -63,13 +63,5 @@
 
 
 
-![](https://media.licdn.com/dms/image/D5616AQHj3prQPoxu5w/profile-displaybackgroundimage-shrink_350_1400/0/1675785670343?e=1689811200&v=beta&t=xUOoEmi8yJ7PRSVdEK28kQPZlInzAEOmYdfbT6qUdFU)
-
-
-
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/Coder-pranto)  
 
 
