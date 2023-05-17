@@ -57,3 +57,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-pranto&show_icons=true&locale=en" alt="coder-pranto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-pranto&" alt="coder-pranto" /></p>
+
+
+
+![](https://media.licdn.com/dms/image/D5616AQHj3prQPoxu5w/profile-displaybackgroundimage-shrink_350_1400/0/1675785670343?e=1689811200&v=beta&t=xUOoEmi8yJ7PRSVdEK28kQPZlInzAEOmYdfbT6qUdFU)
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coder-pranto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/riaj-hasan-pranto-15197917b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100089875654804)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/10376659/pranto)  
+
+![GitHub metrics](https://metrics.lecoq.io/Coder-pranto)  
+
+
