@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <em>a  at DESHIT-BD and a graduate from 
+  <em>
     This is ME, Riaj Hasan Pranto, a <b>Junior Software Engineer</b> at <b>DESHIT-BD</b> graduate from <a href="https://just.edu.bd/"> <b>Jashore University of Science and Technology</b>, Jashore</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
