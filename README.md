@@ -34,7 +34,7 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate with **Fullstack Web**
-- 🤔 I’m looking for help with **Prisma** & **Open - Source contribution**
+- 🤔 I’m looking for help with **GraphQL** & **Open - Source contribution**
 - 👨‍💻 All of my projects are available at [https://github.com/Coder-pranto](https://github.com/Coder-pranto)
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 📫 How to reach me: **raedhasan64@gmail.com**
