@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Riaj Hasan Pranto
+<h1 align="center">👋 Hi, I'm Riaj Hasan Pranto</h1>
 
 <!-- Animated Header -->
 <p align="center">
