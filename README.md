@@ -112,19 +112,30 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-   <img
+  <img
+    width="49%"
     height="180"
     src="https://github-stats-extended.vercel.app/api?username=Coder-pranto&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
     alt="GitHub Statistics"
   />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-pranto&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
+  <img
+    width="49%"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-pranto&layout=compact&theme=default&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Coder-pranto&theme=default&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=Coder-pranto&theme=default&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
