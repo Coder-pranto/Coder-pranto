@@ -115,7 +115,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Coder-pranto&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+   <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Coder-pranto&show_icons=true&theme=default&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-pranto&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
 </p>
 
